@@ -1,5 +1,3 @@
-# 🌑 GrimDevelopment
-
 ![GrimDevelopment Logo](../images/banner.png)
 
 ## 🔮 Welcome to My Digital Playground
@@ -23,14 +21,6 @@ Think of this organization as my digital workshop - a collection of projects tha
 ## 🚦 Current Mood:
 
 _Randomly generating project ideas..._
-
-## 🛠 Tech Playground
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
-![ZSH](https://img.shields.io/badge/-ZSH-black?style=flat-square&logo=ZSH)
 
 ## 🌟 Expect the Unexpected
 
